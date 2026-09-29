@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Large R data objects
+data/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+
